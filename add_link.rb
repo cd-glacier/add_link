@@ -6,7 +6,7 @@ uri = "https://github.com/dit-rohm/textbook/tree/master/"
 #そのフォルダに何個のmdがあるか
 spring_lesson = { '01' => 2, '02' => 1, '03' => 1, '04' => 2, '05' => 3, '06' => 3, '07' => 3, '08' => 3, '09' =>2, '10' =>2 }
 autumn_lesson = { '01' => 1, '02' => 1, '03' => 1, '04' => 1, '05' => 1, '06' => 1, '07' => 1, '08' => 1, '09' => 1, '10' => 1,
-								 	'11' => 1, '12' => 1, '13' => 1, '14' => 1, '15' => 1, '16' => 1, '17' => 1}
+									'11' => 1, '12' => 1, '13' => 1, '14' => 1, '15' => 1, '16' => 1, '17' => 1}
 
 
 if ARGV[0] == "spring" then
@@ -46,31 +46,33 @@ doc.css('ol li a').each do |node|
 	autumn_link << tmp[0]
 end
 
-
 #リンク貼り付け
-j = 0
-for i in 1..lesson_num do
-	lesson[get2digit(i)].times do
+def putsLink
+	j = 0
+	for i in 1..lesson_num do
+		lesson[get2digit(i)].times do
 
-		if ARGV[0] == "autumn" then
-			file_name = './' + ARGV[0].to_s + '/' + autumn_link[j] + '/' + title[j]
-		elsif ARGV[0] == "spring" then 
-			file_name = './' + ARGV[0].to_s + '/' + get2digit(i) + '/' + title[j]
-		else 
-			puts "spell miss?"
-		end
+			if ARGV[0] == "autumn" then
+				file_name = './' + ARGV[0].to_s + '/' + autumn_link[j] + '/' + title[j]
+			elsif ARGV[0] == "spring" then 
+				file_name = './' + ARGV[0].to_s + '/' + get2digit(i) + '/' + title[j]
+			else 
+				puts "spell miss?"
+			end
 
-		File.open(file_name, "a") do |md|
-			unless i == 1 && j == 0 then
-				md.puts(" ")
-				md.puts(previous_link[j - 1])
+			File.open(file_name, "a") do |md|
+				unless i == 1 && j == 0 then
+					md.puts(" ")
+					md.puts(previous_link[j - 1])
+				end
+				unless i == 10 && lesson[get2digit(i)] == j+1 then
+					md.puts(" ")
+					md.puts(link[j + 1])
+				end
+				j += 1
 			end
-			unless i == 10 && lesson[get2digit(i)] == j+1 then
-				md.puts(" ")
-				md.puts(link[j + 1])
-			end
-			j += 1
 		end
 	end
 end
+
 

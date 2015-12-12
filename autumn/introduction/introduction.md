@@ -124,3 +124,4 @@ MySQLとはオープンソースのリレーショナルデータベース管理
 オープンソースのRDBMSでは一番普及しているものであり、ditterにもMySQLを採用しました。
  
 [次へ Ditterについて](../../autumn/introduction/about_ditter.md)
+ 
