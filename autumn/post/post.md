@@ -89,3 +89,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 つぶやきがきちんと投稿されましたか？投稿が確認できたら終了です。
 お疲れ様でした！
+ 
+[前へ 投稿一覧表示の作成](../../autumn/timeline/timeline.md)
+ 
+[次へ 投稿削除機能の作成](../../autumn/deletePost/deletePost.md)

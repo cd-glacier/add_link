@@ -325,3 +325,7 @@ if (empty($error)) {
 * [filter_var](http://php.net/manual/ja/function.filter-var.php)
 * [preg_match](http://php.net/manual/ja/function.preg-match.php)
 * [array_key_exists](http://php.net/manual/ja/function.array-key-exists.php)
+ 
+[前へ ユーザ情報の表示](../../autumn/getUserData/getUserData.md)
+ 
+

@@ -60,3 +60,7 @@ window.setInterval(function() {
 [前へ DITのようなサイトに動きを](../09/improvements.md)
  
 [次へ Sublime Textのカスタマイズ](../10/sublime.md)
+ 
+[前へ jQuery入門](../../spring/09/jquery.md)
+ 
+[次へ Sublime Textのカスタマイズ](../../spring/10/sublime.md)

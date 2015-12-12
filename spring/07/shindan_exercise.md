@@ -311,3 +311,7 @@ function showResult(result) {
 [前へ 診断ゲームを作ろう](../07/shindan_exercise.md)
  
 [次へ 診断ゲームを作ろう(解答例)](../07/shindan_answer.md)
+ 
+[前へ JavaScript入門3](../../spring/07/js3.md)
+ 
+[次へ 診断ゲームを作ろう(解答例)](../../spring/07/shindan_answer.md)

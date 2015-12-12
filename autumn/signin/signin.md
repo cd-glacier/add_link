@@ -392,3 +392,7 @@ print "</pre>";
 上記は確認用のコードなので、確認が終わったら削除しておいてください。
 
 以上で`signin.php`の編集は終了です。かなり長い章でしたが、お疲れ様でした。
+ 
+[前へ 新規登録機能の作成](../../autumn/signup/signup.md)
+ 
+[次へ トップページの見た目の作成](../../autumn/makeIndexPage/addIndexPage.md)

@@ -86,3 +86,7 @@ $cfg['Servers'][$i]['user'] = 'root';
 $cfg['Servers'][$i]['password'] = '先ほど設定したパスワード';
 ```
 -->
+ 
+[前へ Ditterについて](../../autumn/introduction/about_ditter.md)
+ 
+[次へ 初めてのPHP](../../autumn/helloworld/php.md)

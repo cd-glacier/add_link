@@ -122,3 +122,5 @@ SQLというデータベース言語を使用してRDBMSに指示を出し、表
 ### MySQL
 MySQLとはオープンソースのリレーショナルデータベース管理システム(RDBMS)です。
 オープンソースのRDBMSでは一番普及しているものであり、ditterにもMySQLを採用しました。
+ 
+[次へ Ditterについて](../../autumn/introduction/about_ditter.md)

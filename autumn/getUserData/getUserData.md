@@ -195,3 +195,7 @@ if文などを用いてもし変数が代入されてなければ、
 ## 参考
 - [PHPでPDOを使ってMySQLに接続、INSERT、UPDATE、DELETE、COUNT、SUM](http://qiita.com/tabo_purify/items/2575a58c54e43cd59630)
 - [MySQLリファレンス](https://github.com/dit-rohm/textbook/blob/master/common/mysql.md)
+ 
+[前へ 返信画面の作成](../../autumn/reply/reply.md)
+ 
+[次へ 新規登録のエラーチェック](../../autumn/errorCheck/errorCheck.md)

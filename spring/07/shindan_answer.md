@@ -433,3 +433,7 @@ window.onload = function () {
 [前へ 診断ゲームを作ろう(解答例)](../07/shindan_answer.md)
  
 [次へ JavaScript入門4](../08/js4.md)
+ 
+[前へ 診断ゲームを作ろう](../../spring/07/shindan_exercise.md)
+ 
+[次へ JavaScript入門4](../../spring/08/js4.md)

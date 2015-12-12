@@ -164,3 +164,7 @@ for (var i in test) {
 [前へ JavaScript入門3](../07/js3.md)
  
 [次へ 診断ゲームを作ろう](../07/shindan_exercise.md)
+ 
+[前へ まるばつクイズを作ろう(解答)](../../spring/06/marubatsu2.md)
+ 
+[次へ 診断ゲームを作ろう](../../spring/07/shindan_exercise.md)

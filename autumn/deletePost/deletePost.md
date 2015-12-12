@@ -267,3 +267,7 @@ if (isset($_GET['delete_post_id'])) {
  * [PHP: $_GET - Manual ](https://secure.php.net/manual/ja/reserved.variables.get.php)
  * [PHP: $_SERVER - Manual ](https://secure.php.net/manual/ja/reserved.variables.server.php)
  * [PHP: var_dump - Manual ](https://secure.php.net/manual/ja/function.var-dump.php)
+ 
+[前へ 投稿機能の作成](../../autumn/post/post.md)
+ 
+[次へ 返信機能の作成](../../autumn/replybutton/replybutton.md)

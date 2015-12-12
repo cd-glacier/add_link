@@ -159,3 +159,7 @@ jQueryの機能は多く、ここで紹介しきることはできません。�
 [前へ jQuery入門](../09/jquery.md)
  
 [次へ DITのようなサイトに動きを](../09/improvements.md)
+ 
+[前へ タッチザナンバーズを作ろう(解答)](../../spring/08/touch_the_numbers_answer.md)
+ 
+[次へ DITのようなサイトに動きを](../../spring/09/improvements.md)

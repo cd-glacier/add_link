@@ -74,4 +74,3 @@ for i in 1..lesson_num do
 	end
 end
 
-puts autumn_lesson.length

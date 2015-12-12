@@ -359,3 +359,7 @@
 ## まとめ
 お疲れ様でした！トップページの作成はこれで終わりです。
 HTMLやbootstrapについて難しいと感じた人は[リファレンス](./../../common/html_reference.md)や[公式ページ](http://getbootstrap.com)を確認して復習しておきましょう！
+ 
+[前へ サインイン機能の作成](../../autumn/signin/signin.md)
+ 
+[次へ サインアウト機能の作成](../../autumn/signout/signout.md)

@@ -11,3 +11,7 @@ Ditterは~~Twitter~~某マイクロブロギングプラットフォームに似
 ## タイムライン
 ![Index](images/ditter_index.png)
 Ditterの中核となる、タイムラインを表示する画面です。この画面から新たな投稿の作成、他のユーザーの投稿の閲覧、投稿への返信、および自身の投稿の削除を行うことができます。
+ 
+[前へ 導入](../../autumn/introduction/introduction.md)
+ 
+[次へ XAMPPをインストールしよう](../../autumn/introduction/xampp.md)

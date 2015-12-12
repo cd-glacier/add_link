@@ -165,3 +165,7 @@ jQueryとHTMLのやり取りに慣れていない方には難しいところも�
 - [トップページの作成](../makeIndexPage/addIndexPage.md)
 - [jQuery入門](https://github.com/dit-rohm/textbook/blob/master/spring/09/jquery.md)
 - [jQuery公式ドキュメント](http://api.jquery.com)
+ 
+[前へ 投稿削除機能の作成](../../autumn/deletePost/deletePost.md)
+ 
+[次へ ページング機能の作成](../../autumn/paging/paging.md)

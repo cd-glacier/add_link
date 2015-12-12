@@ -301,3 +301,7 @@ SELECT COUNT(*) FROM テーブル名
 - [PHP: ceil - Manual](http://php.net/manual/ja/function.ceil.php)
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 13.2.9 SELECT 構文](https://dev.mysql.com/doc/refman/5.6/ja/select.html)
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.19.1 GROUP BY (集約) 関数](https://dev.mysql.com/doc/refman/5.6/ja/group-by-functions.html#function_count)
+ 
+[前へ 返信機能の作成](../../autumn/replybutton/replybutton.md)
+ 
+[次へ 返信画面の作成](../../autumn/reply/reply.md)

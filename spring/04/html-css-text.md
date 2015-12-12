@@ -252,3 +252,7 @@ h2, h3, p {
 [前へ HTML, CSSの総まとめ（解答）](../04/html-css-text.md)
  
 [次へ JavaScript 入門](../05/js.md)
+ 
+[前へ HTML, CSSの総まとめ](../../spring/04/html-css.md)
+ 
+[次へ JavaScript 入門](../../spring/05/js.md)

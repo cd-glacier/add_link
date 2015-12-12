@@ -427,3 +427,7 @@ foreach ($color as $key => $value) {
 - [PHP: PDOStatement::fetchAll - Manual](http://php.net/manual/ja/pdostatement.fetchall.php)
 - [PHP: foreach - Manual](http://php.net/manual/ja/control-structures.foreach.php)
 - [foreach文でキーと値を取り出す - 繰り返し処理 - PHP入門](http://www.phpbook.jp/tutorial/for/index9.html)
+ 
+[前へ サインアウト機能の作成](../../autumn/signout/signout.md)
+ 
+[次へ 投稿機能の作成](../../autumn/post/post.md)
