@@ -115,3 +115,7 @@ ColorPicerは色の設定を視覚的に行いやすくすることができる�
 [前へ Sublime Textのカスタマイズ](../10/sublime.md)
  
 [次へ Bootstrap入門](../10/bootstrap.md)
+ 
+[前へ DITのようなサイトに動きを](../../spring/09/improvements.md)
+ 
+[次へ Bootstrap入門](../../spring/10/bootstrap.md)

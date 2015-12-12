@@ -24,7 +24,7 @@ spring_link = []
 doc = Nokogiri::HTML(open(spring_uri))
 doc.css('ol li a').each do |node|
 	tmp = node[:href].split("/").last(2)
-	node[:href] = "../" + tmp[0] + "/" + tmp[1]
+	node[:href] = "../../spring/" + tmp[0] + "/" + tmp[1]
 	spring_link << "[次へ " + node.inner_text + "](" + node[:href] + ")"
 	spring_previous_link << "[前へ " + node.inner_text + "](" + node[:href] + ")"
 	spring_title << node[:href].split("/").last
@@ -34,11 +34,11 @@ end
 j = 0
 for i in 1..10 do
 	spring_lesson[get2digit(i)].times do
-		file_name = '../' + get2digit(i) + '/' + spring_title[j]
+		file_name = './spring/' + get2digit(i) + '/' + spring_title[j]
 		File.open(file_name, "a") do |md|
 			unless i == 1 && j == 0 then
 				md.puts(" ")
-				md.puts(spring_previous_link[j])
+				md.puts(spring_previous_link[j - 1])
 			end
 			unless i == 10 && spring_lesson[get2digit(i)] == j+1 then
 				md.puts(" ")
