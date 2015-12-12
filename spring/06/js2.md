@@ -143,19 +143,3 @@ for (var i = 0; i < array.length; i++) {
 [前へ JavaScript入門２](../06/js2.md)
  
 [次へ まるばつクイズを作ろう](../06/marubatsu.md)
- 
-[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
- 
-[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
- 
-[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
- 
-[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
- 
-[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
- 
-[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
- 
-[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
- 
-[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)

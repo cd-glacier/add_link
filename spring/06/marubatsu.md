@@ -112,19 +112,3 @@ if文の中には、正解数を表示する`alert`を書いて完成です。
 [前へ まるばつクイズを作ろう](../06/marubatsu.md)
  
 [次へ まるばつクイズを作ろう(解答)](../06/marubatsu2.md)
- 
-[前へ JavaScript入門２](../../spring/06/js2.md)
- 
-[次へ まるばつクイズを作ろう(解答)](../../spring/06/marubatsu2.md)
- 
-[前へ JavaScript入門２](../../spring/06/js2.md)
- 
-[次へ まるばつクイズを作ろう(解答)](../../spring/06/marubatsu2.md)
- 
-[前へ JavaScript入門２](../../spring/06/js2.md)
- 
-[次へ まるばつクイズを作ろう(解答)](../../spring/06/marubatsu2.md)
- 
-[前へ JavaScript入門２](../../spring/06/js2.md)
- 
-[次へ まるばつクイズを作ろう(解答)](../../spring/06/marubatsu2.md)

@@ -54,19 +54,3 @@ window.onload = function() {
 [前へ おみくじを作ってみよう（解説）](../05/omikuji_solution.md)
  
 [次へ JavaScript入門２](../06/js2.md)
- 
-[前へ おみくじを作ってみよう](../../spring/05/omikuji.md)
- 
-[次へ JavaScript入門２](../../spring/06/js2.md)
- 
-[前へ おみくじを作ってみよう](../../spring/05/omikuji.md)
- 
-[次へ JavaScript入門２](../../spring/06/js2.md)
- 
-[前へ おみくじを作ってみよう](../../spring/05/omikuji.md)
- 
-[次へ JavaScript入門２](../../spring/06/js2.md)
- 
-[前へ おみくじを作ってみよう](../../spring/05/omikuji.md)
- 
-[次へ JavaScript入門２](../../spring/06/js2.md)

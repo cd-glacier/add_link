@@ -61,19 +61,3 @@ alert(fruits.pop()); // orange
 [前へ JavaScript入門4](../08/js4.md)
  
 [次へ タッチザナンバーズを作ろう](../08/touch_the_numbers.md)
- 
-[前へ 診断ゲームを作ろう(解答例)](../../spring/07/shindan_answer.md)
- 
-[次へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
- 
-[前へ 診断ゲームを作ろう(解答例)](../../spring/07/shindan_answer.md)
- 
-[次へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
- 
-[前へ 診断ゲームを作ろう(解答例)](../../spring/07/shindan_answer.md)
- 
-[次へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
- 
-[前へ 診断ゲームを作ろう(解答例)](../../spring/07/shindan_answer.md)
- 
-[次へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
