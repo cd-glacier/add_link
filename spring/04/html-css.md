@@ -56,3 +56,15 @@ HTMLの構造は以下の図のようになっています。
 [前へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
  
 [次へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[前へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[次へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[前へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[次へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[前へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[次へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)

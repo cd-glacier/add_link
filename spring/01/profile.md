@@ -154,3 +154,15 @@ HTMLタグやCSSのプロパティの意味が分からなければ，リファ�
 [前へ HTMLを書いてみよう](../../spring/01/helloworld.md)
  
 [次へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[前へ HTMLを書いてみよう](../../spring/01/helloworld.md)
+ 
+[次へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[前へ HTMLを書いてみよう](../../spring/01/helloworld.md)
+ 
+[次へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[前へ HTMLを書いてみよう](../../spring/01/helloworld.md)
+ 
+[次へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)

@@ -249,3 +249,15 @@ A. 110
 [前へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
  
 [次へ おみくじを作ってみよう](../../spring/05/omikuji.md)
+ 
+[前へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[次へ おみくじを作ってみよう](../../spring/05/omikuji.md)
+ 
+[前へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[次へ おみくじを作ってみよう](../../spring/05/omikuji.md)
+ 
+[前へ HTML, CSSの総まとめ（解答）](../../spring/04/html-css-text.md)
+ 
+[次へ おみくじを作ってみよう](../../spring/05/omikuji.md)

@@ -235,3 +235,15 @@ Bootstrapを使うことで簡単に見た目をカスタマイズできるこ�
 [前へ Sublime Textのカスタマイズ](../../spring/10/sublime.md)
  
 
+ 
+[前へ Sublime Textのカスタマイズ](../../spring/10/sublime.md)
+ 
+
+ 
+[前へ Sublime Textのカスタマイズ](../../spring/10/sublime.md)
+ 
+
+ 
+[前へ Sublime Textのカスタマイズ](../../spring/10/sublime.md)
+ 
+

@@ -128,3 +128,15 @@ HTMLのファイルに```<link>```タグでstyle.cssを追加してください�
 [前へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
  
 [次へ HTML, CSSの総まとめ](../../spring/04/html-css.md)
+ 
+[前へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[次へ HTML, CSSの総まとめ](../../spring/04/html-css.md)
+ 
+[前へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[次へ HTML, CSSの総まとめ](../../spring/04/html-css.md)
+ 
+[前へ レスポンシブデザインの作り方](../../spring/02/how_to_design_responsively.md)
+ 
+[次へ HTML, CSSの総まとめ](../../spring/04/html-css.md)

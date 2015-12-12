@@ -125,3 +125,15 @@ function hantei() {
 [前へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
  
 [次へ jQuery入門](../../spring/09/jquery.md)
+ 
+[前へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
+ 
+[次へ jQuery入門](../../spring/09/jquery.md)
+ 
+[前へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
+ 
+[次へ jQuery入門](../../spring/09/jquery.md)
+ 
+[前へ タッチザナンバーズを作ろう](../../spring/08/touch_the_numbers.md)
+ 
+[次へ jQuery入門](../../spring/09/jquery.md)

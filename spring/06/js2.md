@@ -147,3 +147,15 @@ for (var i = 0; i < array.length; i++) {
 [前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
  
 [次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
+ 
+[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
+ 
+[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)
+ 
+[前へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[次へ まるばつクイズを作ろう](../../spring/06/marubatsu.md)

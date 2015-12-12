@@ -184,3 +184,15 @@ randInt(1, 6); // 1
 [前へ JavaScript 入門](../../spring/05/js.md)
  
 [次へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[前へ JavaScript 入門](../../spring/05/js.md)
+ 
+[次へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[前へ JavaScript 入門](../../spring/05/js.md)
+ 
+[次へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)
+ 
+[前へ JavaScript 入門](../../spring/05/js.md)
+ 
+[次へ おみくじを作ってみよう（解説）](../../spring/05/omikuji_solution.md)

@@ -99,3 +99,15 @@ HTMLのにmeta要素として記述します．
 [前へ プロフィールを作ろう](../../spring/01/profile.md)
  
 [次へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[前へ プロフィールを作ろう](../../spring/01/profile.md)
+ 
+[次へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[前へ プロフィールを作ろう](../../spring/01/profile.md)
+ 
+[次へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)
+ 
+[前へ プロフィールを作ろう](../../spring/01/profile.md)
+ 
+[次へ ブログ風のレイアウト](../../spring/03/basic_bloglike_layout.md)

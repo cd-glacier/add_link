@@ -123,3 +123,15 @@ numbersArray.sort(function() {
 [前へ JavaScript入門4](../../spring/08/js4.md)
  
 [次へ タッチザナンバーズを作ろう(解答)](../../spring/08/touch_the_numbers_answer.md)
+ 
+[前へ JavaScript入門4](../../spring/08/js4.md)
+ 
+[次へ タッチザナンバーズを作ろう(解答)](../../spring/08/touch_the_numbers_answer.md)
+ 
+[前へ JavaScript入門4](../../spring/08/js4.md)
+ 
+[次へ タッチザナンバーズを作ろう(解答)](../../spring/08/touch_the_numbers_answer.md)
+ 
+[前へ JavaScript入門4](../../spring/08/js4.md)
+ 
+[次へ タッチザナンバーズを作ろう(解答)](../../spring/08/touch_the_numbers_answer.md)
